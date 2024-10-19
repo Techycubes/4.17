@@ -1,0 +1,11 @@
+body { background-color: #F5F5F5; 
+    color: #3f2860;
+    font-family: Arial, Verdana, sans-serif; }
+head {background-color: #9bc1c2}
+h1 {  line-height: 200%;}
+nav {  text-align: center; font-size: bold; }
+footer{background-color: #9bc1c2;
+font-size: small; text-align: center;font-style: italic;}
+.studio {font-style: italic;}
+nav a {text-decoration: none;}
+#wrapper{width: 80%;margin-right: auto;margin-left: auto                       ;}

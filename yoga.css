@@ -1,12 +1,15 @@
 body { background-color: #F5F5F5; 
     color: #3f2860;
     font-family: Arial, Verdana, sans-serif; }
-head {background-color: #9bc1c2}
-h1 {  line-height: 200%;}
+header {background-color: #9bc1c2; background-image: url(lilyheader.jpg);
+background-repeat: no-repeat;height: 50px;background-position: right;}
+h1 { padding-top: 50px;padding-left: 2em;}
 nav {  text-align: center; font-size: bold; }
 footer{background-color: #9bc1c2;
 font-size: small; text-align: center;font-style: italic;}
 .studio {font-style: italic;}
 nav a {text-decoration: none;}
-#wrapper{width: 80%;margin-right: auto;margin-left: auto                       ;}
-#hero{}
+#wrapper{background-color: #f5f5f5;width: 80%;margin-right: auto;margin-left: auto;
+min-width: 1000px; max-width: 1280px;}
+img{padding-left: 1em; padding-right: 1em;}
+#hero{text-align: center;}

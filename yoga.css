@@ -1,12 +1,13 @@
 body { background-color: #3f2860; 
     font-family: Arial, Verdana, sans-serif; }
 header {background-color: #9bc1c2; background-image: url(lilyheader.jpg);
-background-repeat: no-repeat;height: 50px;background-position: right;}
+background-repeat: no-repeat;height: 150px;background-position: right;}
 h1 { padding-top: 50px;padding-left: 2em;}
-nav {  text-align: center; font-size: bold; }
-footer{background-color: #9bc1c2;
+nav {  text-align: center; font-size: bold; padding: 1em; }
+footer{background-color: #9bc1c2; padding: 1em;
 font-size: small; text-align: center;font-style: italic;}
 .studio {font-style: italic;}
+main{padding-left: 2em;padding-right: 2em;display: block;}
 nav a {text-decoration: none;}
 #wrapper{background-color: #f5f5f5;width: 80%;margin-right: auto;margin-left: auto;
 min-width: 1000px; max-width: 1280px;}

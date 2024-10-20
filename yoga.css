@@ -1,5 +1,5 @@
 body { background-color: #3f2860; 
-    font-family: Arial, Verdana, sans-serif; }
+    font-family: Arial, Verdana, sans-serif;  color: #3f2860;}
 header {background-color: #9bc1c2; background-image: url(lilyheader.jpg);
 background-repeat: no-repeat;height: 150px;background-position: right;}
 h1 { padding-top: 50px;padding-left: 2em;}
